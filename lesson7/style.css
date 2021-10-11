@@ -1,0 +1,106 @@
+*{
+    background-color: cornsilk;
+}
+.heading{
+    text-align: center;
+    font-size: 30px;
+}
+.container{ 
+    border: 5px  solid rgb(0, 0, 0);
+    margin-bottom: 30px;
+    width: 900px;
+}
+.red{
+    background-color: red;
+    width: 100%;
+    height: 100px;
+}
+   .green{
+    background-color: green;
+    width: 100%;
+    height: 100px;
+   }
+   .blue{
+       background-color: blue;
+       width: 100%;
+       height: 100px;
+   }
+   .top{
+       border: 5px black;
+       overflow: hidden;
+       
+   }
+   .middle_red{
+       width: 33.333333%;
+       height: 100px;
+       background-color: red;
+       display: inline-block;
+       float: left;
+       
+   }
+   .middle_blue{
+    width: 33.333333%;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+    float: left;
+   }
+   .middle_green{
+    width: 33.333333%;
+    height: 100px;
+    background-color:green;
+    display: inline-block;
+    float: left;
+   }
+   .centre{
+    background-color: rgb(255, 240, 29);
+    width: 100%;
+    height: 100px;
+}
+   .float{
+    border: 5px black;
+    overflow: hidden;
+   }
+   .gray{
+    width: 50%;
+    height: 100px;
+    background-color:gray;
+    display: inline-block;
+    float: left;
+   }
+   .black{
+    width: 50%;
+    height: 100px;
+    background-color:black;
+    display: inline-block;
+    float: left;
+   }
+
+   .conektor{
+       border: black solid 5px;
+       background-color: chartreuse;
+       width: 1000px;
+
+   }
+   .left_red{
+       background-color: red;
+       width: 250px;
+       height: 300px;
+       display: inline-block;
+       margin: 30px;
+   }
+   .centre_green{
+    background-color: green;
+    width: 250px;
+    height: 300px;
+    display: inline-block;
+    margin: 30px;
+   }
+   .right_blue{
+    background-color:blue;
+    width: 250px;
+    height: 300px;
+    display: inline-block;
+    margin: 30px;
+   }
+ 

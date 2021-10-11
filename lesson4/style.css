@@ -1,0 +1,22 @@
+.class{
+    font-size: 40px;
+    text-align: center;
+}
+.h_1{
+    color: cadetblue;
+}
+.table{
+    border: 1px solid rgb(0, 0, 0);
+    border-collapse:collapse;
+    width: 30%;
+    box-shadow: 23px 21px 9px -5px rgba(0, 0, 0, 0.6);
+    
+}
+.head{
+    font-size: 40px;
+    border-top: 2px solid rgb(0, 0, 0);
+}
+.body{
+    font-size: 20px;
+    
+}

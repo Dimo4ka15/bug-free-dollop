@@ -1,0 +1,14 @@
+*{
+    background-color: antiquewhite;    
+    }
+.MY{
+    text-align: center;
+}
+.w{
+    
+    border: 1px solid rgb(0, 0, 0);
+    padding: 100px;
+    margin: 10px ;
+    font-size: 30px;
+   background-color: rgb(255, 229, 189);
+}

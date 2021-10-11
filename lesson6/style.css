@@ -1,0 +1,51 @@
+.heading{
+    font-size: 30px;
+    text-align: center;
+}
+.red{
+width: 500px;
+height: 100px;
+background-color: red;
+}
+.green{
+    background-color: green;
+    width: 500px;
+    height: 100px;
+}
+.blue{
+    background-color: blue;
+    width: 500px;
+    height: 100px;
+}
+.black{
+    width: 100%;
+}
+.cont{
+    width: 100%;
+}
+.middle_top{
+    width: 60%;
+}
+
+.red2{
+    background-color: red;
+
+}
+.green2{
+    background-color: green;
+}
+.blue2{
+    background-color: blue;
+}
+.inline{
+    display: inline-block;
+    width: 150px;
+    height: 130px;
+    
+}
+.middle_mid{
+    width: 500px;
+    height: 130px;
+    background-color: rgb(229, 255, 0);
+}
+
