@@ -1,0 +1,36 @@
+*{
+    background-color: gray;
+}
+.title{
+    text-align: center;
+}
+.font{
+    width: 420px;
+    height: 200px;
+    background-color: black;
+    border-radius: 30px;
+}
+.tran{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.black{
+    background-color: black;
+    width: 100%;
+    height: 150px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.cube{
+    background-color: rgb(65, 62, 62);
+    width: 100px;
+    height: 100px;
+   margin: 25px;
+   animation: move 3s reverse infinite ;
+}
+@keyframes move {
+    100%{
+        transform:skewX(15deg);
+    }
+}
