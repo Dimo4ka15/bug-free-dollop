@@ -1,0 +1,53 @@
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.header{
+    background-color:#1D2126;
+    height: 82px;
+}
+.menu_item{
+    color: white;
+list-style-type: none;
+margin-left: 40px;
+}
+.menu_header{
+    display: flex;
+}
+.header_inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+}
+.boder_inner{
+ 
+    height: 660px;
+}
+.baner{
+    background-image: url(pic@1X.png) ;
+}
+.text{
+    margin-top:  220px;
+    display: inline-block;
+    color: white;
+}
+.text_top{
+    font-size: 36px;
+}
+.text_mid{
+    font-size: 16px;
+    width: 648px;
+    margin: 30px ;
+}
+.btn{
+color: white;
+text-decoration: 0;
+border: 1px solid white;
+padding: 8px 10px;
+margin-right: 10px
+}
+.box{
+    display: flex;
+}
