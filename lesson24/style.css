@@ -1,0 +1,106 @@
+.container{
+    width: 1440px;
+   margin: 0 auto;
+}
+.header{
+    height: 100px;
+    border-bottom: #D0D0D0 1px solid;
+}
+.header_inner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.ru{
+    width: 35px;
+    background: #4AD295;
+    border-radius: 2px;
+    text-align: center;
+
+}
+.ua{
+    text-align: center;
+    width: 35px;
+}
+.mes{
+display: inline-flex;
+}
+.inst{
+    margin: 0 15px 0 15px;
+}
+.telephone{
+    display: inline-flex;
+}
+.btn{
+    display: inline-flex;
+}
+.btn_1{
+    Width:240px;
+    Height:55px;
+    background-color: #EFF3F6;
+    margin-right: 30px;
+}
+
+.btn_2{
+    Width:240px;
+    Height:55px;
+    background-color: #EFF3F6;
+    
+}
+.btn_red{
+    background-color: #DD4053;
+    width: 55px;
+    height: 55px;
+    margin-left:185px ;
+}
+.btn_green{
+    background-color:  #4AD295;
+    width: 55px;
+    height: 55px;
+    margin-left:185px ;
+}
+
+
+
+
+.menu_iner{
+    display: inline-flex;
+}
+.text_menu{
+    margin: 35px;
+}
+
+
+
+.baner_iner{
+    background-image: url(Mask\ Group\ \(1\).png);
+    height: 490px;
+}
+.baner_gr{
+    background-image: url(Rectangle\ 83.png);
+    height: 490px;
+}
+.group{
+    color: white;
+    margin: 104px 502px 60px 195px;
+    height: 60px;
+    display: inline-block;
+  
+}
+.group_top{
+    font-size: 24px;
+    border: 1px solid #FFFFFF;
+    width: 249px;
+    height: 45px;
+}
+.group_mid{
+    font-size: 45px;
+    margin-top: 16px;
+    margin-bottom: 40px;
+}
+.group_bottom{
+    width: 270px;
+    height: 60px;
+    background-color:rgba(255, 255, 255, 0.25);
+}
