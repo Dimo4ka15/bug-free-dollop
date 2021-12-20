@@ -40,27 +40,29 @@ display: inline-flex;
     Height:55px;
     background-color: #EFF3F6;
     margin-right: 30px;
+    border-radius: 3px;
 }
 
 .btn_2{
     Width:240px;
     Height:55px;
     background-color: #EFF3F6;
-    
+    border-radius: 3px;
 }
 .btn_red{
     background-color: #DD4053;
     width: 55px;
     height: 55px;
     margin-left:185px ;
+    border-radius: 3px;
 }
 .btn_green{
     background-color:  #4AD295;
     width: 55px;
     height: 55px;
     margin-left:185px ;
+    border-radius: 3px;
 }
-
 
 
 
@@ -90,9 +92,9 @@ display: inline-flex;
 }
 .group_top{
     font-size: 24px;
+    display: inline;
     border: 1px solid #FFFFFF;
-    width: 249px;
-    height: 45px;
+    padding: 6px 21px 7px 23px;
 }
 .group_mid{
     font-size: 45px;
@@ -100,7 +102,85 @@ display: inline-flex;
     margin-bottom: 40px;
 }
 .group_bottom{
-    width: 270px;
-    height: 60px;
+    display: inline;
     background-color:rgba(255, 255, 255, 0.25);
+    padding: 18px 85px 22px 86px;
+}
+
+
+
+
+
+.inform_iner{
+    height: 250px;
+    background-color:#F8F8F8;
+    display: inline-flex;
+}
+.inform_group_1{
+    padding: 30px 30px 35px 198px;
+}
+.inform_group_text_1{
+    width: 624px;
+    height: 72px;
+    font-size:  30px;
+}
+.inform_group_text_2{
+    width: 335px;
+    height: 28px;
+    font-size: 18px;
+}
+.inform_group_iner{
+    display: inline-flex;
+}
+.inform_btn_1{
+    background-color: #BDBDBD ;
+    padding: 15px 44px 15px 44px;
+    font-size: 16px ;
+    color: white;
+    margin-right: 30px;
+    border-radius: 2px;
+}
+.inform_btn_2{
+    border: #969696 1px solid;
+    padding: 15px 48px 15px 50px;
+    color: #969696;
+    border-radius: 2px;
+}  
+.inform_group_2{
+
+    margin-left: 62px;
+    display: inline-flex;
+}
+.group3{
+    width: 370px;
+    height: 198px;
+    margin: 27px 89px 25px 20px;
+    font-weight: 600;
+    line-height: 66px;
+    
+}
+.inform_group_2_text{
+
+}
+.ellipse{
+    width: 45px;
+}
+.ellipse_iner{
+ 
+}
+.ellipse_1{
+    width: 45px;
+    height: 45px;
+    background-image: url(Ellipse\ 13.png);
+}
+.ellipse_2{
+    width: 45px;
+    height: 45px;
+    background-image: url(Ellipse\ 13.png);
+    margin: 20px 0 20px 0;
+}
+.ellipse_3{
+    width: 45px;
+    height: 45px;
+    background-image: url(Ellipse\ 13.png);
 }
