@@ -191,10 +191,12 @@ display: inline-flex;
 
 
 
-
+.ActualTours{
+    height: 790px;
+}
 .ActualTours_iner{
     width: 1042px;
-    height: 140px;
+    height: 790px;
     margin: 100px 191px 93px 200px;
 }
 .ActualTours_top{
@@ -390,7 +392,9 @@ height: 41px;
     height: 36px;
     margin-left: 44px;
 }
-
+.ActualTours_bottom{
+    height: 140px;
+}
 .ActualTours_bottom_border{
     width: 1042px;
     height: 140px;
@@ -400,8 +404,223 @@ height: 41px;
 
 .line1{
     display: inline-flex;
-    justify-content: space-around;
-    font-size: 14px;
+    font-size: 14px ;
     color: rgba(34, 34, 34, 0.4);
+    margin-top: 25px;
+}
+.line_img{
+    width: 15px;
+    height: 15px;
+}
+.line1_1{
+    display: inline-flex;
+    margin: 0px 32px 0px 30px ;
+}
+.line1_2{
+    display: inline-flex;
+    margin: 0px 96px 0px 0px ;
+}
+.line1_3{
+    display: inline-flex;
+    margin: 0px 111px 0px 0px ;
+}
+.line1_4{
+    display: inline-flex;
+    margin: 0px 53px 0px 0px ;
+}
+.line1_5{
+    display: inline-flex;
+}
 
+
+
+
+
+
+
+.redblock{
+margin-top: 70px;
+}
+.redblock_iner{
+    height: 255px;
+    background-color: #DD4053;
+    background-image: url(wave3\ 5.png);
+    background-repeat: no-repeat;
+   background-position:90% ;
+}
+.redblock_line1{
+    display: inline-flex;
+    margin-top: 60px;
+}
+.redblock_text1{
+    font-size: 28px;
+    color:#EFEFEF ;
+    margin: 0px 57px 31px 201px;
+}
+.redblock_text2{
+    font-size: 16px;
+    color:#EFEFEF ;
+    width: 363px;
+}
+.redblock_line2{
+    margin-left: 201px;
+    display: inline-flex;
+}
+.rb_email{
+    width: 410px;
+    height: 50px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #FFFFFF;
+    border-radius: 2px;
+}
+.radio{
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-left: 51px;
+}
+.rb_button{
+    color: #DA2032;
+    background-color:#FFFFFF ;
+    border-radius: 2px;
+    font-size: 16px;
+    margin-left: 50px;
+    padding: 25px 118px 25px 118px;
+}
+
+.footer{
+    margin-top: 70px;
+
+}
+.footer_iner{
+    height: 900px;
+    background-color: #F8F8F8 ;;
+}
+.footer_backround{
+    background-image:url(Mask\ Group.png);
+    background-repeat:no-repeat ;
+    text-align: center;
+    height: 507px;
+
+}
+.a{
+    padding-left: 304px;
+    padding-right: 290px;
+    padding-top: 115px;
+}
+.footer_text{
+    background-image: url(travel.png);
+    background-repeat:no-repeat ;
+    color: #FFFFFF;
+    font-size: 40px;
+    width: 682px;
+    text-align: center;
+   padding: 28px 89px 25px 75px;
+}
+.footer_info{
+    height: 525px;
+    width: 1180px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.07);
+    margin-left: 126px;
+    margin-top: 20px;
+    display: inline-flex;
+}
+.footer_container{
+    
+    margin-top: 70px;
+}
+.box1{
+    width: 420px;
+    height:  104px;
+    display: inline-flex;
+    text-align:left;
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+.footer_ellipse{
+    height: 60px;
+    width:  60px;
+    margin-bottom: 95px;
+    margin-right: 30px;
+}
+.footer_ellipse1{
+    height: 60px;
+    width:  60px;
+    margin-right: 30px;
+}
+.grayblock_iner{
+    height: 255px;
+background-color: #F8F8F8 ;
+
+
+}
+.grayblock_text1{
+    font-size: 28px;
+    color:black ;
+    margin: 0px 57px 31px 201px;
+}
+.grayblock_text2{
+    font-size: 16px;
+    color:black ;
+    width: 363px;
+}
+
+
+.gb_button{
+    color: #FFFFFF;
+    background-color:#DD4053 ;
+    border-radius: 2px;
+    font-size: 16px;
+    margin-left: 50px;
+    padding: 25px 118px 25px 118px;
+}
+.radio2{
+    color: #969696;
+    font-size: 16px;
+    margin-left: 51px;
+}
+.gb_email{
+    width: 410px;
+    height: 50px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #C4C4C4;
+    border-radius: 2px;
+}
+
+
+.end_iner{
+    background-image:url(SloveniaHeader\ 3.png) ;
+    background-repeat:no-repeat ;
+
+    
+}
+.end_iner2{
+
+    height: 240px;
+    width: 1440px;
+    display: inline-flex;
+    justify-content: space-evenly;
+    padding-top: 130px;
+}
+.end_img{
+    opacity: 0.75;
+}
+.end_text{
+    font-size: 15px;
+    color: #3E3E3E;
+    margin-bottom: 5px;
+}
+.end_text2{
+    font-size: 12px;
+    color: #3E3E3E;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    opacity: 0.5;
+}
+.end_text3{
+    font-size: 12px;
+    color: #3E3E3E;
+    margin-top: 25px;
+    text-transform: uppercase;
+    opacity: 0.5;
 }
